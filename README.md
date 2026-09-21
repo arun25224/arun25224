@@ -9,7 +9,7 @@ ARUN THIRU
          ██▄▄▄▄▄▄▄▄▄▄██         Major 2: Data Analytics
               ████              Certifications: CSWA (SOLIDWORKS)
             ▄▄████▄▄            Focus: AI Engineering & Automation
-          ▄▄████████▄▄          Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC + Tech Consult), AAV (BizMag)
+          ▄▄████████▄▄          Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC + TC), AAV (BizMag)
 
 Projects:
 - Timesheet Extraction & Validation Agent (Python, LLM, Streamlit)
