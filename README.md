@@ -40,4 +40,4 @@ Engineered a contract analysis tool designed to parse and evaluate complex legal
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/arun-thiru-281baa2ab/) | [Notion](https://app.notion.com/p/Welcome-to-my-Portfolio-d29834af11ba8218920c012c61234e80)) | [Email](mailto:aartarun@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arun-thiru-281baa2ab/) | [Notion](https://app.notion.com/p/Welcome-to-my-Portfolio-d29834af11ba8218920c012c61234e80) | [Email](mailto:aartarun@gmail.com)
