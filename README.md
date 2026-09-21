@@ -1,17 +1,14 @@
 ```shell
-arun25224@github.com:~$ whoami
 ARUN THIRU
-
-arun25224@github.com:~$ neofetch
        ▄▄▄▄▄▄▄▄▄▄       arun25224@github.com
      ▄████████████▄     --------------------
     ███  ██████  ███    OS: GitHub Profile
-   ████          ████   University: Nanyang Technological University (NTU)
-   ████          ████   Degree: B.Eng Mechanical Engineering
-   ████          ████   Major 2: Data Analytics (Expected 2028)
-    ███  ██████  ███    Certifications: CSWA (SOLIDWORKS)
-      █▄   ██   ▄█      Focus: AI Engineering, Automation, Robotics
-        ▄▄    ▄▄        Experience: MPA (Intern), Thrive (FC), AAV (BM)
+   ████          ████   **University:** Nanyang Technological University (NTU)
+   ████          ████  ** Degree:** B.Eng Mechanical Engineering
+   ████          ████   **Major 2:** Data Analytics
+    ███  ██████  ███    **Certifications:** CSWA (SOLIDWORKS)
+      █▄   ██   ▄█      **Focus:** AI Engineering & Automation
+        ▄▄    ▄▄        Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC), AAV (BM)
 
 arun25224@github.com:~$ projects
 - Timesheet Extraction & Validation Agent (Python, Tesseract OCR)
