@@ -1,77 +1,43 @@
-# Hi, I'm Arun 👋
+# Arun Thiru
 
-### AI Engineering | Software | Data | Automation
+### AI Engineering | Software Development | Data Analytics
 
-I'm an engineering student interested in building practical
-AI and software systems.
+I am an engineering student at Nanyang Technological University specializing in Mechanical Engineering and Data Analytics. My work focuses on developing practical AI pipelines, intelligent document processing systems, and scalable automation solutions to optimize complex workflows. 
 
-My interests include:
+### Core Competencies
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 LLMs & RAG
-- 💻 Python & Software Engineering
-- 📊 Data Science & Analytics
-- ⚙️ Automation & APIs
-- 🔧 Robotics & IoT
+- **Artificial Intelligence & ML:** Machine Learning, NLP, LLMs, Retrieval-Augmented Generation (RAG)
+- **Software Engineering:** System Architecture, API Integration, Application Development
+- **Data Science:** Statistical Analysis, Data Engineering, Visualization
+- **Hardware & Systems:** IoT Integration, Robotics, Computer-Aided Design
 
 ---
 
-## 🚀 Featured Projects
+### Featured Projects
 
-### 🤖 Timesheet Extraction & Validation Agent
+**Timesheet Extraction & Validation Agent**
+An automated document-processing pipeline that extracts timesheet data from scanned PDFs utilizing Tesseract OCR. The system validates time entries, classifies overtime metrics, and generates structured output files for streamlined invoicing.
+*Technologies: Python, Tesseract OCR, Pandas, Streamlit, OpenPyXL*
 
-OCR-powered system for extracting, validating and processing
-timesheet data from scanned documents.
+**Tuberculosis Burden Classification**
+A machine learning project analyzing global health datasets. The model processes and classifies high-burden country-years to identify critical data trends using statistical analysis and predictive modeling.
+*Technologies: Python, Scikit-learn, Pandas*
 
-**Tech:** Python · Tesseract OCR · Pandas · Streamlit · OpenPyXL
-
-### 🧠 TB Burden Classification
-
-Machine-learning project analysing global tuberculosis data
-and classifying high-burden country-years.
-
-**Tech:** Python · Pandas · Scikit-learn · Data Analysis
-
-### 🌦️ Weather Data System
-
-System using real-time data APIs to retrieve and process
-weather information.
-
-**Tech:** Python · REST APIs · Arduino · Data Processing
+**Intelligent Document Analyzer**
+A software solution designed for automated document processing, utilizing programmatic text extraction and classification to organize unstructured data.
+*Technologies: Python, AI Integration*
 
 ---
 
-## 🛠️ Technologies
+### Technical Arsenal
 
-**Languages**
-
-Python · SQL · C/C++ · MATLAB
-
-**AI / ML**
-
-Machine Learning · NLP · LLMs · RAG · PyTorch
-
-**Software**
-
-Git · GitHub · APIs · Streamlit · Testing
-
-**Data**
-
-Pandas · NumPy · Data Analysis · Visualization
+**Languages:** Python, SQL, C/C++, R
+**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+**Tools & Platforms:** Git, GitHub, Streamlit, Google Apps Script
+**Design & Engineering:** SOLIDWORKS (CSWA Certified), AutoCAD
 
 ---
 
-## 📚 Currently Learning
+### Connect
 
-- AI Engineering
-- LLM Applications
-- RAG Systems
-- MLOps
-- Data Engineering
-- Cloud Computing
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio/Website](YOUR_LINK) | [Email](mailto:your.email@example.com)
