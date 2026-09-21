@@ -1,15 +1,14 @@
-```shell
 ARUN THIRU
 
-       ▄▄▄▄▄▄▄▄▄▄       arun25224@github.com
-     ▄████████████▄     --------------------
-    ███  ██████  ███    OS: GitHub Profile
-   ████          ████   University: Nanyang Technological University (NTU)
-   ████          ████   Degree: B.Eng Mechanical Engineering
-   ████          ████   Major 2: Data Analytics
-    ███  ██████  ███    Certifications: CSWA (SOLIDWORKS)
-      █▄   ██   ▄█      Focus: AI Engineering & Automation
-        ▄▄    ▄▄        Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC), AAV (BM)
+          ▄▄▄▄▄▄▄▄▄▄▄▄          arun25224@github.com
+         ██▀▀▀▀▀▀▀▀▀▀██         --------------------
+         ██          ██         OS: GitHub Profile
+         ██  >_      ██         University: Nanyang Technological University (NTU)
+         ██          ██         Degree: B.Eng Mechanical Engineering
+         ██▄▄▄▄▄▄▄▄▄▄██         Major 2: Data Analytics
+              ████              Certifications: CSWA (SOLIDWORKS)
+            ▄▄████▄▄            Focus: AI Engineering & Automation
+          ▄▄████████▄▄          Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC), AAV (BM)
 
 Projects:
 - Timesheet Extraction & Validation Agent (Python, LLM, Streamlit)
@@ -25,6 +24,3 @@ R            [██████████████████░░░░
 
 Uptime:
 Undergraduate, Semester In Progress
-
-Contact
-LinkedIn: (https://www.linkedin.com/in/arun-thiru-281baa2ab/)
