@@ -17,22 +17,22 @@ I am an engineering student at Nanyang Technological University specializing in 
 
 **Timesheet Extraction & Validation Agent**
 An automated document-processing pipeline that extracts timesheet data from scanned PDFs utilizing Tesseract OCR. The system validates time entries, classifies overtime metrics, and generates structured output files for streamlined invoicing.
-*Technologies: Python, Tesseract OCR, Pandas, Streamlit, OpenPyXL*
+*Technologies: Python, Paddle OCR, Pandas, Streamlit, OpenPyXL*
 
-**Tuberculosis Burden Classification**
-A machine learning project analyzing global health datasets. The model processes and classifies high-burden country-years to identify critical data trends using statistical analysis and predictive modeling.
-*Technologies: Python, Scikit-learn, Pandas*
+**Serverless Administrative Automation Suite**
+Developed and deployed a network of serverless Telegram bots to streamline daily operational workflows. The systems automate document text recognition, attendance processing, and expense claim handling, minimizing manual administrative bottlenecks.
+*Technologies: Python, Telegram API, Serverless Architecture, OCR*
 
-**Intelligent Document Analyzer**
-A software solution designed for automated document processing, utilizing programmatic text extraction and classification to organize unstructured data.
-*Technologies: Python, AI Integration*
+**AI-Powered Legal Document Analysis System**
+Engineered a contract analysis tool designed to parse and evaluate complex legal documents. The architecture leverages Large Language Model APIs integrated into a Streamlit interface, specifically engineered to manage context window limitations during comprehensive text extraction.
+*Technologies: Python, LLM APIs, Streamlit*
 
 ---
 
-### Technical Arsenal
+### Technical Capabilities
 
-**Languages:** Python, SQL, C/C++, R
-**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+**Languages:** Python, SQL, R
+**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Turtle
 **Tools & Platforms:** Git, GitHub, Streamlit, Google Apps Script
 **Design & Engineering:** SOLIDWORKS (CSWA Certified), AutoCAD
 
@@ -40,4 +40,4 @@ A software solution designed for automated document processing, utilizing progra
 
 ### Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio/Website](YOUR_LINK) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/arun-thiru-281baa2ab/) | [Notion Portfolio]([YOUR_LINK](https://app.notion.com/p/Welcome-to-my-Portfolio-d29834af11ba8218920c012c61234e80)) | [Email](mailto:aartarun@gmail.com)
