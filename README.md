@@ -1,3 +1,4 @@
+```shell
 arun25224@github.com:~$ whoami
 ARUN THIRU
 
@@ -28,7 +29,7 @@ arun25224@github.com:~$ uptime
 Undergraduate, Semester In Progress
 
 arun25224@github.com:~$ contact
-LinkedIn: linkedin.com/in/YOUR_URL
+LinkedIn: [linkedin.com/in/YOUR_URL](https://linkedin.com/in/YOUR_URL)
 
 arun25224@github.com:~$ exit
 exit
