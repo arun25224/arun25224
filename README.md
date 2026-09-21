@@ -19,9 +19,9 @@ Projects:
 - Credit-Card Fraud Detection Model (Scikit-learn, CART)
 
 Languages:
-Python       [██████████████████████████░░░░]  85%
-SQL (MySQL)  [██████████████████████░░░░░░░░]  70%
-R            [██████████████████░░░░░░░░░░░░]  60%
+Python       [██████████████████████████    ]  85%
+SQL (MySQL)  [██████████████████████        ]  70%
+R            [██████████████████            ]  60%
 
 Uptime:
 Undergraduate, Semester In Progress
