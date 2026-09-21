@@ -5,7 +5,7 @@ ARUN THIRU
          ██▀▀▀▀▀▀▀▀▀▀██         --------------------
          ██          ██         OS: GitHub Profile
          ██  >_      ██         University: Nanyang Technological University (NTU)
-         ██          ██         Degree: B.Eng Mechanical Engineering
+         ██          ██         Degree: Mechanical Engineering
          ██▄▄▄▄▄▄▄▄▄▄██         Major 2: Data Analytics
               ████              Certifications: CSWA (SOLIDWORKS)
             ▄▄████▄▄            Focus: AI Engineering & Automation
