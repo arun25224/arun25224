@@ -1,5 +1,6 @@
 ```shell
 ARUN THIRU
+
        ▄▄▄▄▄▄▄▄▄▄       arun25224@github.com
      ▄████████████▄     --------------------
     ███  ██████  ███    OS: GitHub Profile
@@ -10,23 +11,20 @@ ARUN THIRU
       █▄   ██   ▄█      Focus: AI Engineering & Automation
         ▄▄    ▄▄        Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC), AAV (BM)
 
-arun25224@github.com:~$ projects
-- Timesheet Extraction & Validation Agent (Python, Tesseract OCR)
-- AI-Powered Legal Document Analysis (Baidu OCR, Streamlit)
-- Serverless Administrative Automation Suite (Telegram API)
+Projects:
+- Timesheet Extraction & Validation Agent (Python, LLM, Streamlit)
+- AI-Powered Legal Document Analysis (API, LLM, Django)
+- Serverless Administrative Automation Suite (Telegram API, Paddle OCR)
 - Tuberculosis Burden Classification (Scikit-learn, Pandas)
+- Credit-Card Fraud Detection Model (Scikit-learn, CART)
 
-arun25224@github.com:~$ languages
+Languages:
 Python       [██████████████████████████░░░░]  85%
 SQL (MySQL)  [██████████████████████░░░░░░░░]  70%
 R            [██████████████████░░░░░░░░░░░░]  60%
-C/C++        [██████████████░░░░░░░░░░░░░░░░]  50%
 
-arun25224@github.com:~$ uptime
+Uptime:
 Undergraduate, Semester In Progress
 
-arun25224@github.com:~$ contact
-LinkedIn: [linkedin.com/in/YOUR_URL](https://linkedin.com/in/YOUR_URL)
-
-arun25224@github.com:~$ exit
-exit
+Contact
+LinkedIn: (https://www.linkedin.com/in/arun-thiru-281baa2ab/)
