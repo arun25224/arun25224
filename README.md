@@ -1,29 +1,34 @@
-# TERMINAL: ARUN THIRU
-### NANYANG TECHNOLOGICAL UNIVERSITY | B.ENG MECHANICAL ENGINEERING & DATA ANALYTICS
+arun25224@github.com:~$ whoami
+ARUN THIRU
 
----
+arun25224@github.com:~$ neofetch
+       ▄▄▄▄▄▄▄▄▄▄       arun25224@github.com
+     ▄████████████▄     --------------------
+    ███  ██████  ███    OS: GitHub Profile
+   ████          ████   University: Nanyang Technological University (NTU)
+   ████          ████   Degree: B.Eng Mechanical Engineering
+   ████          ████   Major 2: Data Analytics (Expected 2028)
+    ███  ██████  ███    Certifications: CSWA (SOLIDWORKS)
+      █▄   ██   ▄█      Focus: AI Engineering, Automation, Robotics
+        ▄▄    ▄▄        Experience: MPA (Intern), Thrive (FC), AAV (BM)
 
-### DEPARTURE BOARD: EXPERIENCE & PROJECTS
+arun25224@github.com:~$ projects
+- Timesheet Extraction & Validation Agent (Python, Tesseract OCR)
+- AI-Powered Legal Document Analysis (Baidu OCR, Streamlit)
+- Serverless Administrative Automation Suite (Telegram API)
+- Tuberculosis Burden Classification (Scikit-learn, Pandas)
 
-| IDENTIFIER | DESCRIPTION | TECH STACK & STATUS |
-|:---|:---|:---|
-| **EDU-NTU** | Bachelor of Engineering (Expected 2028) | <kbd>ACTIVE</kbd> <kbd>DATA ANALYTICS</kbd> |
-| **EXP-MPA** | Project Engineering Intern (Marine & Green Infra) | <kbd>COMPLETED</kbd> <kbd>MAY-AUG 2026</kbd> |
-| **EXP-THRIVE**| Financial Controller (Tech Consulting Expansion) | <kbd>ACTIVE</kbd> <kbd>FINANCE</kbd> |
-| **PRJ-TIME** | Timesheet Extraction & Validation Agent | <kbd>PYTHON</kbd> <kbd>TESSERACT OCR</kbd> |
-| **PRJ-LEGAL**| AI-Powered Legal Document Analysis | <kbd>BAIDU OCR</kbd> <kbd>STREAMLIT</kbd> |
-| **PRJ-BOTS** | Serverless Administrative Automation Suite | <kbd>TELEGRAM API</kbd> <kbd>SERVERLESS</kbd> |
+arun25224@github.com:~$ languages
+Python       [██████████████████████████░░░░]  85%
+SQL (MySQL)  [██████████████████████░░░░░░░░]  70%
+R            [██████████████████░░░░░░░░░░░░]  60%
+C/C++        [██████████████░░░░░░░░░░░░░░░░]  50%
 
----
+arun25224@github.com:~$ uptime
+Undergraduate, Semester In Progress
 
-### SYSTEM CAPABILITIES
+arun25224@github.com:~$ contact
+LinkedIn: linkedin.com/in/YOUR_URL
 
-| CATEGORY | COMPONENTS |
-|:---|:---|
-| **SOFTWARE** | <kbd>PYTHON</kbd> <kbd>SQL (MySQL)</kbd> <kbd>R</kbd> <kbd>STREAMLIT</kbd> <kbd>FLASK</kbd> |
-| **AI_MODELING** | <kbd>TENSORFLOW</kbd> <kbd>SCIKIT-LEARN</kbd> <kbd>LLMs</kbd> <kbd>RAG PIPELINES</kbd> |
-| **HARDWARE** | <kbd>SOLIDWORKS (CSWA)</kbd> <kbd>AUTOCAD</kbd> <kbd>IOT</kbd> |
-
----
-
-[LINKEDIN](YOUR_URL) | [PORTFOLIO](YOUR_URL) | [EMAIL](mailto:your@email.com)
+arun25224@github.com:~$ exit
+exit
