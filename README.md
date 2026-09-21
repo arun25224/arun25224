@@ -3,11 +3,11 @@ ARUN THIRU
        ▄▄▄▄▄▄▄▄▄▄       arun25224@github.com
      ▄████████████▄     --------------------
     ███  ██████  ███    OS: GitHub Profile
-   ████          ████   **University:** Nanyang Technological University (NTU)
-   ████          ████  ** Degree:** B.Eng Mechanical Engineering
-   ████          ████   **Major 2:** Data Analytics
-    ███  ██████  ███    **Certifications:** CSWA (SOLIDWORKS)
-      █▄   ██   ▄█      **Focus:** AI Engineering & Automation
+   ████          ████   University: Nanyang Technological University (NTU)
+   ████          ████   Degree: B.Eng Mechanical Engineering
+   ████          ████   Major 2:** Data Analytics
+    ███  ██████  ███    Certifications: CSWA (SOLIDWORKS)
+      █▄   ██   ▄█      Focus: AI Engineering & Automation
         ▄▄    ▄▄        Experience: Neuver Maritime (Intern), MPA (Intern), Thrive (FC), AAV (BM)
 
 arun25224@github.com:~$ projects
