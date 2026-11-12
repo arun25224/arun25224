@@ -3,7 +3,7 @@ ARUN THIRU
 
           ▄▄▄▄▄▄▄▄▄▄▄▄          arun25224@github.com
          ██▀▀▀▀▀▀▀▀▀▀██         --------------------
-         ██          ██         OS: GitHub Profile
+         ██          ██         GitHub Profile
          ██  >_      ██         University: Nanyang Technological University (NTU)
          ██          ██         Degree: Mechanical Engineering
          ██▄▄▄▄▄▄▄▄▄▄██         Major 2: Data Analytics
